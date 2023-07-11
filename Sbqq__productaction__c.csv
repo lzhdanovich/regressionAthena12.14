@@ -1,0 +1,3 @@
+CreatedById,CreatedDate,Guid,LastModifiedById,LastModifiedDate,SBQQ__FilterField__c,SBQQ__FilterValue__c,SBQQ__Operator__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Rule__c,SBQQ__Type__c,SBQQ__ValueAttribute__c,SBQQ__ValueField__c,SBQQ__ValueObject__c
+0055e000006YSTaAAO,2023-07-10T13:19:06.000Z,71b4f793-4095-46d7-95f8-dbdc50329916,0055e000006YSTaAAO,2023-07-10T17:36:17.000Z,,,,01t5e000004hrxnAAA,false,a1Y5e000001eKgdEAE,Add,,,
+0055e000006YSTaAAO,2023-07-11T17:58:23.000Z,12d184ec-a6df-4c3f-bed6-e336a484f78f,0055e000006YSTaAAO,2023-07-11T17:58:23.000Z,,,,01t5e000004hsn7AAA,false,a1Y5e000001eKgdEAE,Add,,,
